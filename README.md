@@ -1,6 +1,6 @@
 * Raw data from past competitions
 * Citation:
-- ROMIP2012
+  - ROMIP2012
 ```
 @article{devlin2018bert,
   title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding},
