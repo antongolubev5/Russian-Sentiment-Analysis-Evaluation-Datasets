@@ -16,3 +16,7 @@ Twitter datasets annotated for the task of reputation monitoring. The goal of th
 
 Similar to SentiRuEval-2015, but the training datasets in both domains were constructed by uniting of the training and test data of the SentiRuEval-2015 and, therefore they were much larger in size.
 
+| Dataset  | Train Volume | Test Volume |
+| ------------- | ------------- | ------------- | 
+|SentiRuEval-2015 Telecom  | 4260  | 5500 |
+| Content Cell  | Content Cell  |
