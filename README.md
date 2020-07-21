@@ -10,7 +10,7 @@ Opinions in direct or indirect speeches extracted from news articles.
 
 ## SentiRuEval-2015
 
-Twitter datasets were annotated for the task of reputation monitoring. The goal of Twitter sentiment analysis at SentiRuEval was to find sentiment-oriented opinions or positive and negative facts about two types of organizations: banks and telecom companies.
+Twitter datasets annotated for the task of reputation monitoring. The goal of the competition was to find sentiment-oriented opinions or positive and negative facts about two types of organizations: banks and telecom companies.
 
 ## SentiRuEval-2016
 
