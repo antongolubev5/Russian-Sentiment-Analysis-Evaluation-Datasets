@@ -10,15 +10,9 @@ Opinions in direct or indirect speeches extracted from news articles.
 
 ## SentiRuEval-2015
 
-[Датасеты](https://github.com/Koziev/NLP_Datasets/tree/master/Samples) используются для тренировки чат-бота.
-Они содержат короткие предложения, извлеченные из большого текстового корпуса,
-а также некоторые паттерны и словосочетания.
-
+Twitter datasets were annotated for the task of reputation monitoring. The goal of Twitter sentiment analysis at SentiRuEval was to find sentiment-oriented opinions or positive and negative facts about two types of organizations: banks and telecom companies.
 
 ## SentiRuEval-2016
 
-[Датасеты](https://github.com/Koziev/NLP_Datasets/tree/master/Samples) используются для тренировки чат-бота.
-Они содержат короткие предложения, извлеченные из большого текстового корпуса,
-а также некоторые паттерны и словосочетания.
-
+Similar to SentiRuEval-2015, but the training datasets in both domains were constructed by uniting of the training and test data of the SentiRuEval-2015 and, therefore they were much larger in size.
 
