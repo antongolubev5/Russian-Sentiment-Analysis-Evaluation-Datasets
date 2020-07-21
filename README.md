@@ -18,7 +18,7 @@ Similar to SentiRuEval-2015, but the training datasets in both domains were cons
 
 | Dataset  | Train Volume | Test Volume |
 | ------------- | ------------- | ------------- | 
-|ROMIP-2012  | 4260  | 5500 |
+|ROMIP-2012  | :4260:  | 5500 |
 | SentiRuEval-2015 Telecom  | 5000 | 5322  |
 | SentiRuEval-2015 Banks  | 5000 | 5296  |
 | SentiRuEval-2016 Telecom  | 8643 | 2247 |
